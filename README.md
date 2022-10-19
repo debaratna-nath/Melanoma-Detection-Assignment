@@ -1,8 +1,9 @@
 # Detecting Skin Cancer (Melanoma) using Deep Learning
 
 ## Problem Statement
- Melanoma is one of the most invasive skin cancer with the highest risk of death. It goes quickly and has the ability to spread to any organ, however, if diagnosed early ,it is highly curable. Prevention and early treatment are critical, especially if you have fair skin, blonde or red hair and blue eyes.
+ Melanoma is one of the most invasive skin cancer with the highest risk of death. It spreads quickly and has the ability to spread to any organ, however, if diagnosed early, it is highly curable. Prevention and early treatment are critical, especially if one has fair skin, blonde or red hair and blue eyes.
  The problem statement is to build a multi-class classification Deep Learning model which can evaluate images and alert dermatologists about the presence of melanoma.
+ From a technical standpoint, the approach is to build a deep learning model which can classify between 9 different types of skin lessions.
 
 ## Dataset
 The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images.
